@@ -1,0 +1,35 @@
+{
+  "name": "pushbots-task",
+  "version": "1.0.0",
+  "description": "\"pushbots nodejs assignment\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" &&exit 1\"",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"git+https://github.com/MadonnaRemon/PushBots-Assignment\""
+  },
+  "keywords": [
+    "NodeJS",
+    "API",
+    "IOS",
+    "CGM",
+    "FCM",
+    "MondoDB",
+    "Express",
+    "PushBots",
+    "Task",
+    "Assignment"
+  ],
+  "author": "\"Madonna Remon\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8"
+  }
+}
